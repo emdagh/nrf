@@ -1,0 +1,6 @@
+zephyr/
+tools/
+.west/
+modules/
+build/
+bootloader/
