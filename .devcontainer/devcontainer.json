@@ -9,7 +9,8 @@
 			},
 			"extensions": [
 				"ms-vscode-remote.remote-containers",
-				"nordic-semiconductor.nrf-connect"
+				"nordic-semiconductor.nrf-connect",
+				"ms-vscode.cpptools-extension-pack"
 			]
 		}
 	},
