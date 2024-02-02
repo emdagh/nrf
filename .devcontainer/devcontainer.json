@@ -14,19 +14,10 @@
 		}
 	},
 	"remoteEnv": {
-		//"CC": "arm-none-eabi-gcc",
-		//"CXX": "arm-none-eabi-g++",
 		"NRFJPROG": "nrfjprog",
 		"NRF_CONNECT_SDK_PATH": "/opt/nrfconnect-sdk",
 		"NRF_SDK_VERSION": "2.5.0"
 	},
 	"workspaceFolder": "/workspaces",
 	"workspaceMount": "source=${localWorkspaceFolder},target=/workspaces,type=bind"
-	//"files": [
-	//  "${workspaceFolder}/*"
-	//],
-	//"postCreateCommands": [
-	//  "nrfutil pkgconf nrfutil.conf"
-	//]
-	//"postCreateCommand": "/bin/bash /workspaces/bootstrap.sh"
 }
